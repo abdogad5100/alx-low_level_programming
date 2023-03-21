@@ -1,0 +1,21 @@
+/*
+ * File: 0-positive_or_negative.c
+ * Auth: Lahcen Oubbaih
+ */
+#include <stdio.h>
+/*
+ * main - prints the alphabet in lowercase, followed by a new line
+ *
+ * Return: Always 0.
+ */
+int main(void)
+{
+	char letter;
+
+	for(letter = 'a'; letter <= 'z'; letter++)
+		putchar(letter);
+
+	putchat('\n');
+
+	return (0);
+}
