@@ -1,10 +1,10 @@
 /*
- * File: 0-positive_or_negative.c
- * Auth: Lahcen Oubbaih
+ * File: 2-print_alphabet.c
+ * Auth: abdogad
  */
 #include <stdio.h>
 /*
- * main - Prints the alphabet in lowercase.
+ * main - Prints the alphabet.
  *
  * Return: Always 0.
  */
