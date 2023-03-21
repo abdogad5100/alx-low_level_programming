@@ -3,6 +3,7 @@
  * Auth: abdogad
  */
 #include <stdio.h>
+
 /*
  * main - Prints the alphabet.
  *
